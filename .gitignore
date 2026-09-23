@@ -1,0 +1,17 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local Elastic / Docker data
+elasticsearch/
+docker-data/
+*.ndjson.bak

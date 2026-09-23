@@ -1,0 +1,1 @@
+This repository contains the author's project documentation and analysis. Do not redistribute third-party datasets or software under this repository's terms. Refer to the original sources and licenses listed in the report.
