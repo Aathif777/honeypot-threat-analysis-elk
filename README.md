@@ -192,7 +192,6 @@ honeypot-threat-analysis-elk/
 │   └── methodology.md
 ├── dashboards/
     └── README.md
-
 ```
 
 ## Project Type
