@@ -1,23 +1,16 @@
-# Kibana Dashboards
+# Screenshots
 
-The project contains three purpose-built dashboards.
+Add screenshots exported from Kibana here.
 
-## 1. Attack Origin Intelligence
+Recommended screenshots:
 
-**Question:** Where?
+- Full dataset in Kibana Discover
+- SSH investigation
+- Repeat-offender investigation
+- Cowrie payload analysis
+- Suricata analysis
+- Attack Origin Intelligence dashboard
+- Honeypot Activity Trends dashboard
+- Attack Techniques & Payloads dashboard
 
-Visualises geographic distribution, source countries, ASNs and source-IP persistence.
-
-## 2. Honeypot Activity Trends
-
-**Question:** When?
-
-Visualises attack volume, honeypot types, hourly activity and unique source IP trends.
-
-## 3. Attack Techniques & Payloads
-
-**Question:** What?
-
-Visualises targeted ports, Cowrie commands, event types and Suricata signatures.
-
-Add exported Kibana screenshots or dashboard exports to this directory if you have them available.
+Avoid screenshots containing passwords, API keys, tokens, private credentials or other sensitive information.
